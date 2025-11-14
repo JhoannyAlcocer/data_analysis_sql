@@ -1,4 +1,5 @@
 📘 SQL Book Database Analysis
+
 📌 Descripción
 
 Proyecto SQL donde analizo una base de datos de libros, autores, editoriales, calificaciones y reseñas para extraer insights que apoyen el desarrollo de un producto digital para lectores.
@@ -31,11 +32,11 @@ project_sql.ipynb — Notebook con consultas SQL, resultados y conclusiones.
 
 (Completa tú cuando termines)
 
-Editorial destacada: ______
+Editorial destacada: Penguin Books
 
-Autor con mejor rating: ______
+Autor con mejor rating: J.K. Rowling, junto a Mary GrandPré
 
-Promedio de reseñas de heavy users: ______
+Promedio de reseñas de heavy users: Alrededor de 24 reseñas textuales
 
 🙌 Autora
 
