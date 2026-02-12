@@ -30,7 +30,6 @@ project_sql.ipynb — Notebook con consultas SQL, resultados y conclusiones.
 
 📊 Resultados
 
-(Completa tú cuando termines)
 
 Editorial destacada: Penguin Books
 
